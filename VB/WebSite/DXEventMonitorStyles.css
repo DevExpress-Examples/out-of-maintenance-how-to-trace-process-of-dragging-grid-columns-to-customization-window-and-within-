@@ -1,0 +1,28 @@
+﻿.EventLogPanel
+{
+    float: left;
+    padding: 0px 10px 0px 0px;
+}
+
+.EventListPanel
+{
+    line-height: 200%;
+    float: left;
+    white-space: nowrap;
+}
+
+.EventListPanel input { vertical-align: middle; }
+
+#EventLog, .EventLog
+{
+    background-color: White;
+    border: solid 1px #9d9d9d;
+    color: Black;
+    font-family: Tahoma, Sans-Serif;
+    font-size: 11px;
+    overflow: auto;
+    padding: 5px;
+    width: 550px;
+    height: 200px;
+    margin-bottom: 8px;
+}
