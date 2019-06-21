@@ -7,6 +7,9 @@
 * [EventMonitor.ascx](./CS/WebSite/EventMonitor.ascx) (VB: [EventMonitor.ascx](./VB/WebSite/EventMonitor.ascx))
 <!-- default file list end -->
 # How to trace process of dragging grid columns to Customization Window and within Header
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e3033/)**
+<!-- run online end -->
 
 
 <p>The example demonstrates how to trace the process of dragging columns to Customization Window and within a Header. The column's state is traced by handling the server-side ASPxGridView's AfterPerformCallback  and client-side ASPxClientGridView's EndCallback events.</p><p><strong>See </strong><strong>Also:</strong><strong><br />
